@@ -1,2 +1,3 @@
 # odin-recipes
-recipe site only using html
+
+A project to build a recipe site only using html
